@@ -6,6 +6,8 @@ public class tst
 	System.out.println("Hello World");
 
 	System.out.println("That is my first git repository");
+	
+	System.out.println("Some otheer changes1!");
 
 	}
 	
